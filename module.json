@@ -14,7 +14,7 @@
 	"packs": [],
 	"languages": [],
 
-	"url": "",
-	"manifest": "",
-	"download": ""
+	"url": "https://github.com/ksx0330/FVTT-Secret-Journal",
+	"manifest": "https://raw.githubusercontent.com/ksx0330/FVTT-Secret-Journal/master/module.json",
+	"download": "https://github.com/ksx0330/FVTT-Secret-Journal/archive/master.zip"
 }
