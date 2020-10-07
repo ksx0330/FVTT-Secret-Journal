@@ -1,4 +1,4 @@
-# Secret Journal
+Secret Journal
 =============
 This module helps you to hide secrets in the journal.
 
