@@ -1,0 +1,20 @@
+{
+	"name": "secret-journal",
+	"title": "Secret Journal",
+	"description": "Secret Journal",
+	"version": "0.1.0",
+	"minimumCoreVersion" : "0.6.0",
+	"compatibleCoreVersion": "0.6.6",
+	"author": "ltaeng",
+	"esmodules": [],
+	"scripts": [
+        "./main.js"
+    ],
+	"styles": [],
+	"packs": [],
+	"languages": [],
+
+	"url": "",
+	"manifest": "",
+	"download": ""
+}
