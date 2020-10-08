@@ -1,7 +1,7 @@
 {
 	"name": "secret-journal",
 	"title": "Secret Journal",
-	"description": "Secret Journal",
+	"description": "Original secret block only set secret text in text editor mode. This module can set secret journal in any mode(text, image) and set mode you want to be visible.",
 	"version": "0.1.0",
 	"minimumCoreVersion" : "0.6.0",
 	"compatibleCoreVersion": "0.6.6",
