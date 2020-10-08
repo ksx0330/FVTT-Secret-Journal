@@ -13,20 +13,27 @@ https://raw.githubusercontent.com/ksx0330/FVTT-Secret-Journal/master/module.json
 Purpose
 -------------
 This module is used for japanese rules like insane.
+
 This rule requires handout including secret. 
+
 In this case, this module supports making secret handout by linking other journal.
 
 When use this module, 
+
 Secret journal will be visibled to users who have observer or owner permission.
+
 Users can not only view the journal in text mode, but also view the journal in the mode set by the GM. (Text, Image)
 
 
 Difference of Secret block & this module
 -------------
 Secret block can be visibled owner user.
+
 This module can be visibled observer and owner user.
 
+
 Secret block only set in text editor mode. 
+
 This module can set in any mode and set mode you want to be visible.
 
 
