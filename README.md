@@ -1,6 +1,6 @@
 Secret Journal
 =============
-This module helps you to hide secrets in the journal.
+This module helps you to hide secret journal in the journal.
 
 Installation Instructions
 -------------
